@@ -1,26 +1,17 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import cl from './App.module.scss';
+import {Input} from "./1inputData/input";
+import {validate} from "./1inputData/Validator";
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    return (
+        <div className={cl.App}>
+            {/*<Input type={'number'}/>*/}
+            <Input type={'string'} placeholder={'Номер Карты'} name={'numberCart'} validate={validate}/>
+            <Input type={'string'} placeholder={'Действительна До'} name={'date'} validate={validate}/>
+            <Input type={'string'} placeholder={'CVV2'} name={'CVV2'} validate={validate}/>
+        </div>
+    );
 }
 
 export default App;
