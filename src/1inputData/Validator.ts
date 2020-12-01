@@ -32,7 +32,8 @@ export const validate = (value: any, min: number, max: number, name: string ) =>
         let yearNow = Number((nowDate.getFullYear()).toString().slice(0, 2));
         const monthCard = Number(value.slice(0, 2))
         const yearCard = Number(value.slice(2, 4))
-        if (monthCard <= 31 && yearCard >= yearNow) {
+        if(monthCard>12){return 'month can be !>12'}
+        if (monthCard <= 12 && yearCard >= yearNow) {
             return ''
         } else {
             return 'maybe your card is expired'
