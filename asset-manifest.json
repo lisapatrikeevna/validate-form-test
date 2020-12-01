@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "//lisapatrikeevna.github.io/validate-form-test/static/css/main.724a2d75.chunk.css",
-    "main.js": "//lisapatrikeevna.github.io/validate-form-test/static/js/main.c9f59df1.chunk.js",
-    "main.js.map": "//lisapatrikeevna.github.io/validate-form-test/static/js/main.c9f59df1.chunk.js.map",
-    "runtime-main.js": "//lisapatrikeevna.github.io/validate-form-test/static/js/runtime-main.4f7ced6a.js",
-    "runtime-main.js.map": "//lisapatrikeevna.github.io/validate-form-test/static/js/runtime-main.4f7ced6a.js.map",
-    "static/js/2.14d11345.chunk.js": "//lisapatrikeevna.github.io/validate-form-test/static/js/2.14d11345.chunk.js",
-    "static/js/2.14d11345.chunk.js.map": "//lisapatrikeevna.github.io/validate-form-test/static/js/2.14d11345.chunk.js.map",
-    "static/js/3.3f6939f1.chunk.js": "//lisapatrikeevna.github.io/validate-form-test/static/js/3.3f6939f1.chunk.js",
-    "static/js/3.3f6939f1.chunk.js.map": "//lisapatrikeevna.github.io/validate-form-test/static/js/3.3f6939f1.chunk.js.map",
-    "index.html": "//lisapatrikeevna.github.io/validate-form-test/index.html",
-    "static/css/main.724a2d75.chunk.css.map": "//lisapatrikeevna.github.io/validate-form-test/static/css/main.724a2d75.chunk.css.map",
-    "static/js/2.14d11345.chunk.js.LICENSE.txt": "//lisapatrikeevna.github.io/validate-form-test/static/js/2.14d11345.chunk.js.LICENSE.txt"
+    "main.css": "/validate-form-test/static/css/main.724a2d75.chunk.css",
+    "main.js": "/validate-form-test/static/js/main.edb4486e.chunk.js",
+    "main.js.map": "/validate-form-test/static/js/main.edb4486e.chunk.js.map",
+    "runtime-main.js": "/validate-form-test/static/js/runtime-main.a438f8da.js",
+    "runtime-main.js.map": "/validate-form-test/static/js/runtime-main.a438f8da.js.map",
+    "static/js/2.1785eeac.chunk.js": "/validate-form-test/static/js/2.1785eeac.chunk.js",
+    "static/js/2.1785eeac.chunk.js.map": "/validate-form-test/static/js/2.1785eeac.chunk.js.map",
+    "static/js/3.bd62ec58.chunk.js": "/validate-form-test/static/js/3.bd62ec58.chunk.js",
+    "static/js/3.bd62ec58.chunk.js.map": "/validate-form-test/static/js/3.bd62ec58.chunk.js.map",
+    "index.html": "/validate-form-test/index.html",
+    "static/css/main.724a2d75.chunk.css.map": "/validate-form-test/static/css/main.724a2d75.chunk.css.map",
+    "static/js/2.1785eeac.chunk.js.LICENSE.txt": "/validate-form-test/static/js/2.1785eeac.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4f7ced6a.js",
-    "static/js/2.14d11345.chunk.js",
+    "static/js/runtime-main.a438f8da.js",
+    "static/js/2.1785eeac.chunk.js",
     "static/css/main.724a2d75.chunk.css",
-    "static/js/main.c9f59df1.chunk.js"
+    "static/js/main.edb4486e.chunk.js"
   ]
 }
